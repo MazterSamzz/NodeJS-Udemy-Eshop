@@ -5,6 +5,7 @@ const mongoose = require('mongoose')
 const cors = require('cors')
 require('dotenv/config') // npm install dotenv (for .env)
 const authJwt = require('./helpers/jwt')
+const errorHandler = require('./helpers/error-handler')
 
 // npm install cors
 app.use(cors())
@@ -14,6 +15,7 @@ app.options('*', cors())
 app.use(express.json())
 app.use(morgan('tiny'))
 app.use(authJwt())
+app.use(errorHandler)
 
 // =========== Routes ===========
 const categoriesRoutes = require('./routers/categories')
