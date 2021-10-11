@@ -3,6 +3,7 @@ const express = require('express')
 const router = express.Router()
 const bcrypt = require('bcryptjs')
 
+// ==================== All User ====================
 router.get(`/`, async (req, res) => {
 	const userList = await User.find()
 
@@ -11,8 +12,9 @@ router.get(`/`, async (req, res) => {
 	}
 	res.send(userList)
 })
+// ==================== /All User ====================
 
-// ==================== Store Category ====================
+// ==================== Store User ====================
 router.post('/', async (req, res) => {
 	let user = new User({
 		name: req.body.name,
@@ -34,6 +36,6 @@ router.post('/', async (req, res) => {
 
 	res.send(user)
 })
-// ==================== /Store Category ====================
+// ==================== /Store User ====================
 
 module.exports = router
