@@ -1,0 +1,12 @@
+{
+	"name": "Mike",
+	"email": "mike@gmail.com",
+	"password": "123456",
+	"phone": "14441888",
+	"isAdmin": true,
+	"street": "Street 5",
+	"apartement": "Apartement 4",
+	"zip": "15002",
+	"city": "Praque",
+	"country": "Czech Republic"
+}

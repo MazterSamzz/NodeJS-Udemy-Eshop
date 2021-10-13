@@ -1,0 +1,13 @@
+{
+	"name": "product 4",
+	"description": "product 4 description new",
+	"richDecription": "product 4 description",
+	"image": "product 4/image.jpg",
+	"brand": "product 4 brand",
+	"price": 32,
+	"category": "615d10ded5edff663f53d7f0",
+	"countInStock": 15,
+	"rating": 4,
+	"numReviews": 20,
+	"isFeatured": false
+}
