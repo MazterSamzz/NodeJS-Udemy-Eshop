@@ -1,0 +1,19 @@
+{
+	"orderItems": [
+		{
+			"quantity": 3,
+			"product": "615d5c5a42a277653019bd88"
+		},
+		{
+			"quantity": 2,
+			"product": "6166887a9859123802767223"
+		}
+	],
+	"shippingAddress1": "Flowers Street, 45",
+	"shippingAddress2": "1-B",
+	"city": "Prague",
+	"zip": "00000",
+	"country": "Czech Republic",
+	"phone": "+420702241333",
+	"user": "61664b9b373ee0ac76072a10"
+}
