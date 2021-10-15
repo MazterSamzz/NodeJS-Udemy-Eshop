@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "6168444280aac36a889effc5"
+  },
+  "orderItems": [
+    {
+      "$oid": "6168444280aac36a889effbd"
+    },
+    {
+      "$oid": "6168444280aac36a889effbe"
+    }
+  ],
+  "shippingAddress1": "Jakarta Pusat, 45",
+  "shippingAddress2": "1-B",
+  "city": "Jakarta",
+  "zip": "00000",
+  "country": "indonesia",
+  "phone": "+6281234567",
+  "status": "Pending",
+  "totalPrice": 160,
+  "user": {
+    "$oid": "61637675396819501ecc952a"
+  },
+  "dateOrdered": {
+    "$date": "2021-10-14T14:52:50.594Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6168a3396ec79ba4921e2201"
+  },
+  "orderItems": [
+    {
+      "$oid": "6168a3396ec79ba4921e21f9"
+    },
+    {
+      "$oid": "6168a3396ec79ba4921e21fa"
+    }
+  ],
+  "shippingAddress1": "Jakarta Pusat, 45",
+  "shippingAddress2": "1-B",
+  "city": "Jakarta",
+  "zip": "00000",
+  "country": "indonesia",
+  "phone": "+6281234567",
+  "status": "Pending",
+  "totalPrice": 160,
+  "user": {
+    "$oid": "61637675396819501ecc952a"
+  },
+  "dateOrdered": {
+    "$date": "2021-10-14T21:38:01.669Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6168cc81cde023c01cd1774f"
+  },
+  "orderItems": [
+    {
+      "$oid": "6168cc81cde023c01cd17747"
+    },
+    {
+      "$oid": "6168cc81cde023c01cd17748"
+    }
+  ],
+  "shippingAddress1": "Jakarta Pusat, 45",
+  "shippingAddress2": "1-B",
+  "city": "Jakarta",
+  "zip": "00000",
+  "country": "indonesia",
+  "phone": "+6281234567",
+  "status": "Pending",
+  "totalPrice": 288,
+  "user": {
+    "$oid": "616376e2dcc58b4893c94bb4"
+  },
+  "dateOrdered": {
+    "$date": "2021-10-15T00:34:09.262Z"
+  },
+  "__v": 0
+}]

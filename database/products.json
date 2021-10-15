@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "614bf40ea4ad522f286f6b52"
+  },
+  "name": "hair dresser 2",
+  "image": "some_url",
+  "countInStock": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614bf46fa4ad522f286f6b54"
+  },
+  "name": "hair dresser 2",
+  "image": "some_url",
+  "countInStock": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615f026e030a9afcd98b8d47"
+  },
+  "name": "product 1 new",
+  "description": "product 1 description new",
+  "richDescription": "",
+  "image": "product 1/image.jpg",
+  "images": [],
+  "brand": "product 1 brand",
+  "price": 32,
+  "category": {
+    "$oid": "614d09245adf7818746bc684"
+  },
+  "countInStock": 10,
+  "rating": 4,
+  "numReviews": 22,
+  "isFeatured": true,
+  "dateCreated": {
+    "$date": "2021-10-07T14:21:34.034Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61621709f1254e1b29969c79"
+  },
+  "name": "product 2",
+  "description": "product 2 description new",
+  "richDescription": "",
+  "image": "product 2/image.jpg",
+  "images": [],
+  "brand": "product 2 brand",
+  "price": 32,
+  "category": {
+    "$oid": "614d08ee5adf7818746bc681"
+  },
+  "countInStock": 15,
+  "rating": 4,
+  "numReviews": 20,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-10-09T22:26:17.023Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6162171cf1254e1b29969c7c"
+  },
+  "name": "product 3",
+  "description": "product 3 description new",
+  "richDescription": "",
+  "image": "product 3/image.jpg",
+  "images": [],
+  "brand": "product 3 brand",
+  "price": 32,
+  "category": {
+    "$oid": "614d08ee5adf7818746bc681"
+  },
+  "countInStock": 15,
+  "rating": 4,
+  "numReviews": 20,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-10-09T22:26:36.097Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61621735f1254e1b29969c7f"
+  },
+  "name": "product 4",
+  "description": "product 4 description new",
+  "richDescription": "",
+  "image": "product 4/image.jpg",
+  "images": [],
+  "brand": "product 4 brand",
+  "price": 32,
+  "category": {
+    "$oid": "614d09245adf7818746bc684"
+  },
+  "countInStock": 15,
+  "rating": 4,
+  "numReviews": 20,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-10-09T22:27:01.261Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6168ddea3eb1421ef0184fea"
+  },
+  "name": "Product6",
+  "description": "Product6 description",
+  "richDescription": "Product6 richDescription ",
+  "image": "http://localhost:3000/public/uploads/Weeding-Rings.jpg-1634262506562",
+  "images": [],
+  "brand": "Product6 brand",
+  "price": 26,
+  "category": {
+    "$oid": "614d08ee5adf7818746bc681"
+  },
+  "countInStock": 36,
+  "rating": 2,
+  "numReviews": 21,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-10-15T01:48:26.667Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6168e11b50520bdf5345cbf2"
+  },
+  "name": "Product7",
+  "description": "Product7 new description",
+  "richDescription": "Product7 new richDescription ",
+  "image": "http://localhost:3000/public/uploads/Rings.jpg-1634279302916.jpeg",
+  "images": [
+    "http://localhost:3000/public/uploads/CTUrsRRZn20-unsplash.jpg-1634281753448.jpeg",
+    "http://localhost:3000/public/uploads/enNffryKuQI-unsplash.jpg-1634281753450.jpeg",
+    "http://localhost:3000/public/uploads/O6KfGA_g1_M-unsplash.jpg-1634281753450.jpeg",
+    "http://localhost:3000/public/uploads/Rc1mMjR6bbo-unsplash.jpg-1634281753451.jpeg",
+    "http://localhost:3000/public/uploads/VVqigkCOzPo-unsplash.jpg-1634281753454.jpeg"
+  ],
+  "brand": "Product7 brand",
+  "price": 26,
+  "category": {
+    "$oid": "614d08ee5adf7818746bc681"
+  },
+  "countInStock": 36,
+  "rating": 2,
+  "numReviews": 21,
+  "isFeatured": false,
+  "dateCreated": {
+    "$date": "2021-10-15T02:02:03.279Z"
+  },
+  "__v": 0
+}]

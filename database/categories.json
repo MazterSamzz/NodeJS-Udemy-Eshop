@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "614d08ee5adf7818746bc681"
+  },
+  "name": "Electronics",
+  "icon": "icon-electronics",
+  "color": "#555",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614d09245adf7818746bc684"
+  },
+  "name": "health",
+  "icon": "icon-health",
+  "color": "#666",
+  "__v": 0
+}]

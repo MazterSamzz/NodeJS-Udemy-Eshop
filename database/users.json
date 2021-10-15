@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "61637675396819501ecc952a"
+  },
+  "name": "James",
+  "email": "james@gmail.com",
+  "passwordHash": "$2a$10$YZZpw97Izgkj32VskHeooe9yaaSXlSKzyvi5qKV1Byz71MuTpRNB6",
+  "phone": "144411214",
+  "isAdmin": "true",
+  "street": "",
+  "apartement": "Apartement 202",
+  "zip": "15002",
+  "city": "Newyork",
+  "country": "USA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616376e2dcc58b4893c94bb4"
+  },
+  "name": "Tom",
+  "email": "tom@gmail.com",
+  "passwordHash": "123456",
+  "phone": "14441777",
+  "isAdmin": "true",
+  "street": "Street 100",
+  "apartement": "Apartement 202",
+  "zip": "15002",
+  "city": "Newyork",
+  "country": "USA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6163773bdcc58b4893c94bb6"
+  },
+  "name": "Mike",
+  "email": "mike@gmail.com",
+  "passwordHash": "123456",
+  "phone": "14441888",
+  "isAdmin": "true",
+  "street": "Street 5",
+  "apartement": "Apartement 4",
+  "zip": "15002",
+  "city": "Praque",
+  "country": "Czech Republic",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616447d27a07004a34880f4b"
+  },
+  "name": "Thomas",
+  "email": "thomas@gmail.com",
+  "passwordHash": "$2a$10$YZZpw97Izgkj32VskHeooe9yaaSXlSKzyvi5qKV1Byz71MuTpRNB6",
+  "phone": "14441888",
+  "isAdmin": "false",
+  "street": "Street 5",
+  "apartement": "Apartement 4",
+  "zip": "15002",
+  "city": "Praque",
+  "country": "Czech Republic",
+  "__v": 0
+}]
